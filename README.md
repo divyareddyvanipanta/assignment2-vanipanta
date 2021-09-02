@@ -1,6 +1,6 @@
 # Divya Reddy Vanipanta
 
-##### My favourite location in the world is **Paris**
+##### My favourite location in the world is Paris
 
 **Paris** is one of the most beautiful cities in the world. People call Paris "City of Love" because of the romatic atmosphere and **Eiffel tower** is one of the world's most recognizable landmarks.
 
