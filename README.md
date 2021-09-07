@@ -45,5 +45,7 @@ The below table contains the list of **Food and Bevarages** one can try. It also
 ### Inspirational Quotes
 
 > "It doesn't matter who you are, where you come from. The ability to triumph begins with you." -*Oprah Winfrey*
+
 > "Believe you can and you're halfway there." -*Theordore Roosevelt*
+
 > "The only person you are destined to become is the person you decide to be." -*Ralph Waldo Emerson*
