@@ -38,4 +38,12 @@ The below table contains the list of **Food and Bevarages** one can try. It also
 | Apple Pie | New Mexico | $9.83 |
 | Tacos | Los Angeles | $2.19 |
 | The Hamburger | New Haven | $4.56 |
-| Pisco Sour | New York | $4.00 | 
+| Pisco Sour | New York | $4.00 |
+
+***
+
+### Inspirational Quotes
+
+> "It doesn't matter who you are, where you come from. The ability to triumph begins with you." -*Oprah Winfrey*
+> "Believe you can and you're halfway there." -*Theordore Roosevelt*
+> "The only person you are destined to become is the person you decide to be." -*Ralph Waldo Emerson*
