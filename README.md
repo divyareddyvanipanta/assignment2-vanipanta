@@ -25,3 +25,17 @@ Especially as it glows after dark have made it one of the most visited monuments
     1.  Movies
 
 **[Learn about me here](AboutMe.md)**
+
+***
+
+### Food/Drinks Recommendations
+
+The below table contains the list of **Food and Bevarages** one can try. It also contains the location where you can get the Item and the estimated price of Item
+
+| Food/Beverage | Locaiton | Estimated Price |
+| ------------- | -------- | --------------- |
+| Biryani | Overland Park | $12.99 |
+| Apple Pie | New Mexico | $9.83 |
+| Tacos | Los Angeles | $2.19 |
+| The Hamburger | New Haven | $4.56 |
+| Pisco Sour | New York | $4.00 | 
