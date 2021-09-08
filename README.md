@@ -19,10 +19,10 @@ Especially as it glows after dark have made it one of the most visited monuments
 4.  Use the middle 2 lanes to stay on I-635 S and keep right to stay on I-635 S
 5.  Continue onto US-69 S and turn right onto W 80th St and then turn left onto Overland Park Dr.
 6.  Turn left and you have reached your destination.
-1.  Items to be bought to Overland Park
-    1.  Music System
-    1.  Indoor Games
-    1.  Movies
+*  Items to be bought to Overland Park
+    *  Music System
+    *  Indoor Games
+    *  Movies
 
 **[Learn about me here](AboutMe.md)**
 
